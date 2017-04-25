@@ -13,6 +13,7 @@
 	<name>podam</name>
 
 	<properties>
+<test.version>1</test.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<serenity.version>1.2.2</serenity.version>
 		<spring.version>4.3.6.RELEASE</spring.version>
